@@ -10,8 +10,7 @@ Option 1 (Recommended):
 
 Option 2 (Run Locally):
 1. Click on index.html
-2. Click "Download Raw" button
-3. Double-click file -- will open in your browswer automatically
+2. Click "Download Raw" button (or clone the repo)
+3. Double-click the file -- will open in your browswer automatically
 
 
-Live Demo: https://eseogbevire.github.io/4120assignment1/
